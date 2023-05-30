@@ -1,6 +1,7 @@
 ¡Hola! Soy Inma. ¡Encantada! 👋
 
 Te cuento un poquito sobre mi 👩‍💻
+
 Soy Graduada en ADE con pasión por los datos. Actualmente me estoy desarrollando como Analista de Datos Junior 🚀
 En continuo proceso de mejora ⚙ y deseando aprender más 💪
 
