@@ -2,7 +2,7 @@
 
 Te cuento un poquito sobre mi 👩‍💻
 
-Soy Graduada en ADE con pasión por los datos. Actualmente me estoy desarrollando como Analista de Datos Junior 🚀
+Actualmente cuento con tres años de experiencia en Microsoft Power Platform 🚀
 
 En continuo proceso de mejora ⚙ y deseando aprender más 💪
 
@@ -12,5 +12,3 @@ En continuo proceso de mejora ⚙ y deseando aprender más 💪
 
 📌 Y para añadir más emoción al proceso, comencé Python 🐍
 
-Aquí podéis encontrar mi aprendizaje, mis avances y mis prácticas ✌
-Y por Linkedin www.linkedin.com/in/inmaculadagálvezcalzado subo contenido sobre el análisis de datos, herramientass y todos mis avances con éstas tecnologías 😉
